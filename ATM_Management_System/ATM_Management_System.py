@@ -188,7 +188,7 @@ while True:
                 print("Invalid Password")
                 continue
             else:
-                #Object has been created for bank.
+                #Object has been created for ATM.
                 Obj1=ATM(account_found[0],account_found[1],int(account_found[2]),int(account_found[3]),int(account_found[4]))
                 while True:
                     print("----:PLEASE ENTER YOUR CHOICE:---")
