@@ -10,7 +10,7 @@ Features:
 -File Handling
 -Exception Handling
 """
-#Bank class containing all banking operations
+#ATM class containing all banking operations
 class ATM:
     #Initialize account details.
     def __init__(self,account_no,name,age,password,balance):
